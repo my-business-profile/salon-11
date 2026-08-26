@@ -1,0 +1,10 @@
+{
+  "name": "trust-salon-hair-professional",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Premium multi-page website for TRUST Salon Hair Professional, Ang Mo Kio, Singapore.",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  }
+}
